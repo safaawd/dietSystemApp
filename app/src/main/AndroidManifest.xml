@@ -15,9 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AboutLogin" > </activity>
-        <activity android:name=".AboutRegister"> </activity>
-
+        <activity android:name=".AboutLogin" />
+        <activity android:name=".AboutRegister" />
+        <activity android:name=".Userinfo"></activity>
     </application>
 
 </manifest>
